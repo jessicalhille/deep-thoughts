@@ -34,6 +34,16 @@
   ```
 
   ### Screenshot of Deployed Application
+  * Homepage
+  <img width="1335" alt="Screen Shot 2022-03-17 at 1 35 36 PM" src="https://user-images.githubusercontent.com/91511805/158873190-3f0423c4-6cc0-417c-b20d-11815e582c34.png">
+
+  
+  * Thought page with reactions
+  <img width="1357" alt="Screen Shot 2022-03-17 at 1 36 36 PM" src="https://user-images.githubusercontent.com/91511805/158873203-e36f4b19-5367-4061-b326-794fad05d426.png">
+
+  
+  * Profile Page
+  <img width="1354" alt="Screen Shot 2022-03-17 at 1 36 21 PM" src="https://user-images.githubusercontent.com/91511805/158873217-6adedf0b-e9c5-4ee0-bc5b-bbac69663651.png">
 
 
   ## Contributing
