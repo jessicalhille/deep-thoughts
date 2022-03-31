@@ -1,4 +1,4 @@
-# Budget Breeze
+# Deep Thoughts
   ![made-with](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
   ![made-with](https://img.shields.io/badge/Made%20with-Express.js-1f425f.svg)
   ![made-with](https://img.shields.io/badge/Made%20with-MongoDB-1f425f.svg)
